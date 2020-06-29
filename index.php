@@ -1,5 +1,5 @@
 <?php
 print "Hi There";
-print "hello Everyone";
+print "Hello Everyone";
 
 ?>
